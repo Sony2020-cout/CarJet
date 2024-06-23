@@ -8,4 +8,15 @@ SystemFriday;
 4)А также обновление рейсов и контактов диспетчерской;
 
 */
-class Navigator;
+class Navigator {
+public:
+	Navigator();
+
+protected:
+
+
+
+
+
+
+};

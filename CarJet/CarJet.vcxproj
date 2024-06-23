@@ -131,7 +131,7 @@
     <ClInclude Include="Headlights.h" />
     <ClInclude Include="Navigator.h" />
     <ClInclude Include="SmartSeats.h" />
-    <ClInclude Include="SMartWindow.h" />
+    <ClInclude Include="SmartWindow.h" />
     <ClInclude Include="SystemFriday.h" />
     <ClInclude Include="Wheel.h" />
   </ItemGroup>

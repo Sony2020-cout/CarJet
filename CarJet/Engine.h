@@ -6,4 +6,12 @@
 Headlight, Navigator, SmartSeats, SmartWindow,Wheel
 
 */
-class Engine;
+class Engine {
+public:
+	Engine();
+
+
+
+private:
+
+};

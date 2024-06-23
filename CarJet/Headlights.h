@@ -7,4 +7,16 @@
 
 
 */
-class Headlights;
+class Headlights {
+public:
+	Headlights();
+
+
+private:
+
+
+protected:
+
+
+
+};

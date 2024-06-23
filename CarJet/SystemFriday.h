@@ -11,4 +11,12 @@
 * и прочей информации, выводимой в CarJet
 1)Прописать алгоритм взаимодествия с подсистемами;
 */
-class SysytemFriday;
+class SystemFriday {
+public:
+	SystemFriday();
+
+private:
+
+
+
+};

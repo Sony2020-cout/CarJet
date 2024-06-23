@@ -2,4 +2,11 @@
 /*
 1) Прописать алгоритм сворачивания колёс и превращения в турбины;
 */
-class Wheel;
+class Wheel {
+public:
+	Wheel();
+
+protected:
+
+
+};

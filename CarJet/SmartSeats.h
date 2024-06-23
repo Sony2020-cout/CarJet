@@ -9,4 +9,14 @@
 пространства в кабине;
 
 */
-class SmartSeats;
+class SmartSeats {
+public:
+	SmartSeats();
+
+private:
+
+
+
+protected:
+
+};

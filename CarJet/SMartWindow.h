@@ -9,4 +9,12 @@ Navigator через SystemFriday;
 	в)новостей, чтобы не перекрывало обзор для пилота, а распологалось рядом с 
 	пассажирами и не ограждало информацию, перечисленную в п.п. а,б;
 */
-class SmartWindow;
+class SmartWindow {
+public:
+	SmartWindow();
+protected:
+
+
+
+
+};
